@@ -1,0 +1,12 @@
+# trust-anchors CODEOWNERS file
+#
+# Usage/Syntax Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default
+* @Red-Hat-Information-Security/trust-anchors-admin
+
+# LeakTK
+/leaktk/ bplaxco@redhat.com
+
+# Endpoint Systems
+/endpoint-systems/ rmonk@redhat.com
