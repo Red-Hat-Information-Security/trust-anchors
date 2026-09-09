@@ -10,3 +10,7 @@
 
 # Endpoint Systems
 /endpoint-systems/ rmonk@redhat.com
+
+# User specific directories
+/people/bplaxco/ bplaxco@redhat.com
+/people/rmonk/ rmonk@redhat.com
